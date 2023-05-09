@@ -6,3 +6,5 @@
 1. Auto register - Claim ( Email tempmail )
 2. Manual Register 
 3. Login dengan akun yang udah register
+
+Credit : agathasangkara
